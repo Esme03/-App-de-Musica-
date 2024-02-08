@@ -1,5 +1,6 @@
 # -App-de-Musica-
 **Creacion de una nueva plataforma de musica para la gente**
+
 _Sera una plataforma mas facil de usar, y una manera de encontrar mas facil a tus artistas favoritos_ 
 >Musica para todos los estados de animo, by Spotify
 `rgb(9, 105, 218)`
@@ -11,10 +12,15 @@ Este sitio se inspiro en [Spotify](https://open.spotify.com/intl-es)
 
 
 **Artista que se pueden encontrar en la app**
+
 1.Taylor Swift
+
 2.Stray Kids
+
 3.Morat
+
 4.Vicente
+
 5. etc
 
 
@@ -24,4 +30,6 @@ Este sitio se inspiro en [Spotify](https://open.spotify.com/intl-es)
 
       
 ![images](https://github.com/Esme03/-App-de-Musica-/assets/99860991/0bbb301a-5174-4077-9124-d1e2824957e7)
+
+
 :smiling_face_with_three_hearts: :sunglasses::yellow_heart::love_you_gesture:
