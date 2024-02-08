@@ -30,6 +30,14 @@ Este sitio se inspiro en [Spotify](https://open.spotify.com/intl-es)
 
       
 ![images](https://github.com/Esme03/-App-de-Musica-/assets/99860991/0bbb301a-5174-4077-9124-d1e2824957e7)
+![20221028-235930-064542](https://github.com/Esme03/-App-de-Musica-/assets/99860991/20ec3dc5-7d27-48b3-9305-c18b263f5217)
+
 
 
 :smiling_face_with_three_hearts: :sunglasses::yellow_heart::love_you_gesture:
+
+> [!NOTE]
+> Mucha mas musica para tus playlist
+
+> [!TIP]
+> Agrega cada genero en diferentes listas para tener un orden
